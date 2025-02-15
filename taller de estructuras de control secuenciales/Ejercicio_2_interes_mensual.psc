@@ -1,5 +1,5 @@
 Algoritmo Ejercicio_2_interes_mensual
-	// ENTRADAS
+	//ENTRADAS
 	Escribir "ingrese su inversion"
 	Leer capital1
 	//CAJA NEGRA
