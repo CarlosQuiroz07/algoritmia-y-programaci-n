@@ -1,0 +1,9 @@
+Ejercicio_1_promedio_edades
+#entrada
+Edad1=int(input("ingrese el promedio de la edad 1:"))
+Edad2=int(input("ingrese el promedio de la edad 2:"))
+Edad3=int(input("ingrese el promedio de la edad 3:"))
+#caja negra
+promedio_edad=(Edad1+Edad2+Edad3)/3
+#salida
+print("el promedio es:", promedio_edad)
